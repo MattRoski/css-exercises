@@ -1,0 +1,21 @@
+.odd,
+.odd3 {
+    background-color: pink;
+    font-family: Verdana;
+    font-family: sans-serif;
+}
+
+.odd3{
+    font-size: 24px;
+}
+
+#idSelect{
+    color:blue;
+    font-size:36px;
+}
+
+#id4th{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
